@@ -1,10 +1,10 @@
 <a href="https://github.com/devxande">
 <div align="center">
 	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">		
-	<h2>👋 Olá! Eu sou Alexandre Teixeira, <p></p><h2>
-criador de programação e tecnologia! 👋
+	<h2>👋 Olá! Eu sou Alexandre Teixeira 👋<p></p></h2>
+	<h310>Hello! This is Alexandre Teixeira<p></p></h10>
 </div>
-	
+		
 - 🌱 Em busca de oportunidade
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
@@ -44,13 +44,4 @@ criador de programação e tecnologia! 👋
   ![Snake animation](https://github.com/devxande/devxande/blob/output/github-contribution-grid-snake.svg)
   <p>
     <img src="https://komarev.com/ghpvc/?username=devxande&color=blueviolet">
-  </p>
-  
-##
-  
-</div>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="175px" max-width="175px" width="175px" align="right" alt="notebook wcfx">
-  <
-
-</a>
+	</p>
