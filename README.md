@@ -1,10 +1,15 @@
-
+<a href="https://github.com/devxande">
 <div align="center">
-	<a href="https://github.com/devxande">
-  		<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" alt="notebook wcfx">
+	<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">		
 	<h2>👋 Olá eu sou Alexandre Teixeira, criador de programação e tecnologia! 👋<p></p></h2>
 </div>
 
+- 🌱 Em busca de oportunidade
+- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
+- 📚 Atualmente estou aprendendo Python
+- 😄 Apelido: Kxamp
+</div>
+	
 <div align="center">
   <a href="https://github.com/devxande">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -47,8 +52,3 @@
   <
 
 </a>
-
-- 🌱 Em busca de oportunidade
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
-- 📚 Atualmente estou aprendendo Python
-- 😄 Apelido: Kxamp
