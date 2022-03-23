@@ -1,6 +1,7 @@
 
 <div align="center">
-  <img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" alt="notebook wcfx">
+	<a href="https://github.com/devxande">
+  		<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" align="center" alt="notebook wcfx">
 	<h2>👋 Olá eu sou Alexandre Teixeira, criador de programação e tecnologia! 👋<p></p></h2>
 </div>
 
