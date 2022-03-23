@@ -1,19 +1,21 @@
 <a href="https://github.com/devxande">
 <div align="center">
-	<img src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">		
-	<h2>👋 Olá eu sou Alexandre Teixeira, criador de programação e tecnologia! 👋<p></p></h2>
+	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">		
+	<h2>👋 Olá! Eu sou Alexandre Teixeira, <p></p><h2>
+criador de programação e tecnologia! 👋
 </div>
-
+	
 - 🌱 Em busca de oportunidade
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
 - 😄 Apelido: Kxamp
+<br>
 </div>
 	
 <div align="center">
   <a href="https://github.com/devxande">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <!--
