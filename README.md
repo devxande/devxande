@@ -45,3 +45,5 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=devxande&color=blueviolet">
 	</p>
+
+<img src="https://media1.giphy.com/media/2igJeqa7RaLW8AZZGD/giphy.gif?cid=790b7611cee914693fd0963bb7b1a1ac3babb569c933470e&rid=giphy.gif&ct=s" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">
