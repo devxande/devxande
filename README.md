@@ -8,6 +8,7 @@
 - 🌱 Em busca de oportunidade
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
+- 📩 Contato: devxande@gmail.com
 - 😄 Apelido: Kxamp
 <br>
 </div>
