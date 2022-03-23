@@ -1,10 +1,10 @@
 <a href="https://github.com/devxande">
 <div align="center">
-	<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">		
+	<img src="https://i.ibb.co/dpd1CG4/Whats-App-Image-2022-03-19-at-09-14-42.jpg" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">		
 	<h2>👋 Olá! Eu sou Alexandre Teixeira 👋<p></p></h2>
 	<h310>Hello! This is Alexandre Teixeira<p></p></h10>
 </div>
-		
+	
 - 🌱 Em busca de oportunidade
 - 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
 - 📚 Atualmente estou aprendendo Python
