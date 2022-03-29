@@ -1,31 +1,22 @@
-<a href="https://github.com/devxande">
-<div align="center">
-	<img src="https://i.ibb.co/dpd1CG4/Whats-App-Image-2022-03-19-at-09-14-42.jpg" min-width="170px" max-width="170px" width="170px" align="right" alt="notebook wcfx">	
-	</a>
-	<h2>👋 Olá! Eu sou Alexandre Teixeira 👋<p></p></h2>
-	<h310>Hello! This is Alexandre Teixeira<p></p></h10>
-</div>
-	
-- 🌱 Em busca de oportunidade
-- 👨‍🎓 Cursando Analise e Desenvolvimento de Sistemas!
-- 📚 Atualmente estou aprendendo Python
-- 📩 Contato: devxande@gmail.com
-- 😄 Apelido: Kxamp
-<br>
-</div>
+<p align="left">
+<h1 align ="center">Hello World! I'm Alexandre Teixeira!</h1>
+<img alt="Coding" src="https://hermes.digitalinnovation.one/articles/cover/4781a19d-53f3-4f3d-8da0-51db7bd38889.gif" align="right" height="350" width="500" align="right"/>
+
+
+
+### 👨‍🦱  about me ###
+- 🤖 Back-End Developer
+- ⏳  I'm 24 years old
+- ❤️  My favorite language is Python
+- 🌱  I’m currently learning *Python, Cloud Computing and MySQL*
+- 🎓 Studying System Analisys and Development
+<p align="left">
 	
 <div align="center">
   <a href="https://github.com/devxande">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-<!--
-<div>
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&exclude_repo=devxande&hide_title=true&theme=gotham"/>
-</div>
--->
   
 <div style="display: inline_block" align="center"><br>
 
