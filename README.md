@@ -19,8 +19,8 @@
 	
 <div align="center">
   <a href="https://github.com/devxande">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFD700&title_color=FF4500&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&layout=compact&langs_count=7&theme=dark&title_color=FF4500&custom_title=Linguagens mais utilizadas&border_color=1d2735&bg_color=0,130F40,0d1117"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
@@ -28,7 +28,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/5TyPb01/teucu00jkasbrvgsg2aqshpdhc.png">
+  <img align="center" alt="MySQL" height="32" width="32" src="https://i.ibb.co/pvwVDFV/Sem-T-tulo-2.png">
   <img align="center" alt="Google Clound" height="32" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 </a>
 	
