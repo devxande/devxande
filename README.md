@@ -20,7 +20,7 @@
 <div align="center">
   <a href="https://github.com/devxande">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devxande&show_icons=true&theme=dark&include_all_commits=true&count_private=true&icon_color=FFD700&title_color=FF4500&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&hide=html&layout=compact&theme=tokyonight"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devxande&hide=html&layout=compact&theme=dark&icon_color=FFD700&title_color=FF4500&text_color=D3D3D3&border_color=1d2735&bg_color=0,0d1117,130F40"/>
 </div>
   
 <div style="display: inline_block" align="center"><br>
