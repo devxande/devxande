@@ -8,7 +8,7 @@
 - 🤖 Back-End Developer
 - 🎉 I'm 24 years old
 - ❤️ My favorite language is Python
-- 🌱 I’m currently learning *Python, Cloud Computing and MySQL*
+- 🌱 I’m currently learning *Python and Data Science*
 - 🎓 Studying System Analisys and Development
 
 
